@@ -1,0 +1,170 @@
+solid LineUp_Tool
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 16.0 16.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 16.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 16.0 16.0 0.0
+    vertex 16.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 16.0
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 0.0 16.0 16.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 0.0 0.0 16.0
+    vertex 16.0 0.0 16.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 16.0 0.0 16.0
+    vertex 16.0 3.9999999999999996 16.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.9999999999999996 16.0 16.0
+    vertex 0.0 16.0 16.0
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 16.0 0.0 16.0
+    vertex 0.0 0.0 0.0
+    vertex 16.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 16.0 0.0 16.0
+    vertex 0.0 0.0 16.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 16.0 16.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 16.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 16.0 16.0
+    vertex 0.0 16.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 16.0 0.0
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 16.0 16.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 0.0 16.0 0.0
+    vertex 0.0 16.0 16.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 0.0 16.0 16.0
+    vertex 3.9999999999999996 16.0 16.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 16.0 16.0 3.9999999999999996
+    vertex 16.0 16.0 0.0
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 16.0 0.0 0.0
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 16.0 0.0 16.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 16.0 0.0 0.0
+    vertex 16.0 16.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 16.0 16.0 0.0
+    vertex 16.0 16.0 3.9999999999999996
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 16.0 3.9999999999999996 16.0
+    vertex 16.0 0.0 16.0
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 3.9999999999999996 3.9999999999999996 3.9999999999999996
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 16.0 16.0 3.9999999999999996
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 3.9999999999999996 3.9999999999999996 3.9999999999999996
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 3.9999999999999996 16.0 3.9999999999999996
+    vertex 3.9999999999999996 16.0 16.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 3.9999999999999996 3.9999999999999996 3.9999999999999996
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 16.0 3.9999999999999996 3.9999999999999996
+    vertex 3.9999999999999996 3.9999999999999996 16.0
+    vertex 16.0 3.9999999999999996 16.0
+  endloop
+endfacet
+endsolid LineUp_Tool

@@ -6,5 +6,5 @@ xsetroot -solid grey
 #x-window-manager &
 # Fix to make GNOME work
 export XKL_XMODMAP_DISABLE=1
-"/home/pi/Mac/Basilisk/BasiliskII" --config /home/pi/Mac/Basilisk/config.cfg
+"/opt/mac/Basilisk/BasiliskII" --config /opt/mac/Basilisk/config.cfg
 pkill Xtightvnc

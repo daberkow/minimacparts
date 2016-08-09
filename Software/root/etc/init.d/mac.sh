@@ -3,7 +3,7 @@
 # description: Start mini mac script
 
 start() {
-    su pi /home/pi/Mac/start.sh
+    su pi /opt/mac/start.sh
 }
 
 stop() {
@@ -22,7 +22,7 @@ case "$1" in
        start
        ;;
     *)
-       echo "Usage: $0 {start|stop|status|restart}"
+       echo "Usage: $0 {start|stop|restart}"
 esac
 
 exit 0
